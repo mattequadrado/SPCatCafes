@@ -2,7 +2,7 @@
 
 ### **Descrição**
 
-este projeto web é um diretório simples que contém os arquivos necessários para criar um site que lista cat cafés em São Paulo. O site permite que os usuários pesquisem por cat cafés usando palavras-chave e exibe os resultados da pesquisa de forma organizada.
+este projeto web é um diretório simples que contém os arquivos necessários para criar um site que lista cat cafés em São Paulo. O site permite que os usuários pesquisem por cat cafés usando palavras-chave e exibe os resultados da pesquisa de forma organizada. Este projeto foi feito durante o curso Imersão Dev da Alura.
 
 ### **Estrutura do Projeto**
 
