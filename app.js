@@ -37,7 +37,7 @@ function pesquisar() {
     }
 
     if(!resultados){
-      resultados = "<p> nada foi encontrado, tente outro cat café! </p>"
+      section.innerHTML = "<p> nada foi encontrado, tente outro cat café! </p>"
     }
 
   }
